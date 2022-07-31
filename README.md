@@ -5,8 +5,10 @@ I'm a 24y.o. Front end developer from Uzbekistan with more than 1.5 years experi
 #### I'm comfortable working with:
 
 - HTML - Quality code, W3C Compliance, Crossbrowser compatibility, Figma Layout Matching
+- BEM methodology
 - CSS
 - SASS - SCSS
+- TailwindCss
 - Javascript
 - Vue.js - Vuex, Vue Router
 - Nuxt.js
