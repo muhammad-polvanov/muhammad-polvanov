@@ -1,6 +1,6 @@
 ## Mukhammadjon Polvanov's long journey
 
-I'm a 24y.o. Front end developer from Uzbekistan with more than 1.5 years experience.
+I'm a 26y.o. Front end developer from Uzbekistan with more than 3 years experience.
 
 #### I'm comfortable working with:
 
